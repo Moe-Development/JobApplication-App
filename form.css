@@ -1,0 +1,45 @@
+
+
+/***************************************************************************************
+ *	Author: Mohamad Albazeai												  		   *
+ *															   						   *
+ *	           																		   *
+ *  File description: this file is contain the application form page style,            *
+ * and here when we desgin the web view, and color some element to                     *
+ * make them looks attractive.		   												   *
+ ***************************************************************************************
+ */
+ 
+
+body
+{
+	background: linear-gradient(to bottom, #00ffff 0%, #ffffff 100%);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 8%;
+	font-size: 12pt;
+	font-weight: bold;
+	text-align: center;
+}
+
+form
+{
+	width:  50%;
+	display: inline-block;
+	text-align: left;
+}
+fieldset
+{
+	margin: 1% ;
+	border: 2px  solid white;
+	
+}
+legend
+{
+	font-size: 1.5em;
+}
+div
+{
+	margin: 1%;
+}
+

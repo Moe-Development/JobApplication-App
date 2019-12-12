@@ -1,0 +1,138 @@
+/***************************************************************************************
+ *	Author: Mohamad Albazeai											   			   *
+ *	           																		   *
+ *  File description: this file is contain the index page style, and here when we 	   *
+ *  desgin the web view, and color some element to make them looks attractive.		   *
+ ***************************************************************************************
+ */
+ 
+
+
+body
+{
+	background:  linear-gradient(to bottom, #00ffff 0%, #ffffff 100%);
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	padding: 8%;
+}
+form
+{
+	background-repeat: no-repeat;
+	display: inline-block;
+}
+div
+{
+	margin: 1% ;
+}
+fieldset
+{
+	margin: 1% ;
+	border: 2px  solid white;
+	display: inline-block;
+	width: 500px;
+	
+}
+#login_input
+{
+	clear: boths;
+}
+
+#email
+{
+	width: 50%;
+	background: linear-gradient(45deg, rgba(255,255,255,1) 9%, rgba(255,254,250,1) 10%, rgba(255,222,92,1) 47%, rgba(0,255,255,1) 75%, rgba(0,255,255,1) 100%);
+
+}
+label#label1
+{
+	padding: 1% 0 0 2%;
+	
+}
+input:hover
+{
+	background: -webkit-linear-gradient(45deg, rgba(255,43,206,1) 0%, rgba(0,255,255,1) 100%);
+}
+
+label.labelStyle
+{
+	float: left;
+	margin-bottom: 3%;
+	clear: left;
+	font-size: 1.5em;
+}
+.main
+{
+	
+	float: right;
+	background: linear-gradient(45deg, rgba(255,255,255,1) 9%, rgba(255,254,250,1) 10%, rgba(255,222,92,1) 47%, rgba(0,255,255,1) 75%, rgba(0,255,255,1) 100%);	width: 50%;
+	border-radius: 10px;
+}
+div#registrationInput input
+{
+	margin-bottom: 5%;
+	padding: 1%;
+	
+}
+
+
+#provinceSelection
+{
+	width: 30%;
+	padding: 1%;
+	border-radius: 10px;
+	cursor: pointer;
+}
+#provinceSelection:hover
+{
+	background: -webkit-linear-gradient(45deg, rgba(255,43,206,1) 0%, rgba(0,255,255,1) 100%);
+}
+div.profile
+{
+	clear: both;
+}
+
+		
+legend
+{
+	
+	font-size: 2em;
+}
+button, input[type=submit], input[type=reset]
+{
+	background: linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(0,255,255,1) 100%); 
+	border-radius: 10px;
+	cursor: pointer;
+	margin: 1%;
+	padding: 1%;
+}
+button:hover, input[type=submit]:hover, input[type=reset]:hover
+{
+	background: -webkit-linear-gradient(45deg, rgba(255,43,206,1) 0%, rgba(0,255,255,1) 100%);
+}
+
+input
+{
+	border-radius: 6px;
+	padding: 1%;
+	
+}
+footer
+{
+	margin-bottom: 3%;
+	font-size: 16pt;
+	font-weight: bold;
+}
+
+@media only screen and (max-width: 320px) {
+  body {
+    display: block;
+  }
+}
+
+
+
+
+
+
+

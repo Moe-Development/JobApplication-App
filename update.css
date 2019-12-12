@@ -1,0 +1,72 @@
+
+/***************************************************************************************
+ *	Author: Mohamad Albazeai												           *
+ *	           																		   *
+ *  File description: this file is contain the update.php form page style,             *
+ * and here when we desgin the web view, and color some element to                     *
+ * make them looks attractive.		   												   *
+ ***************************************************************************************
+ */
+ 
+ 
+body{
+	background: linear-gradient(to bottom, #00ffff 0%, #ffffff 100%);
+	background-repeat: no-repeat;
+	padding: 8%;
+	font-size: 12pt;
+	font-weight: bold;
+	text-align: center;
+}
+form{
+	width:  50%;
+	display: inline-block;
+	text-align: left;
+}
+fieldset{
+		
+}
+legend
+{
+	
+	font-size: 1.5em;
+}
+h2{
+	color: blue;
+}
+div{
+	margin: 1% ;
+}
+footer{
+	text-align : center;
+}
+table{
+	display: inline-block;
+}
+
+td{
+	color: darkred;
+}
+
+
+table,td,th {
+    border-collapse: collapse;
+	border: 1px solid black;
+	font-size: 16pt;
+	padding: 2%;
+}
+
+th {
+    background-color: rgb(95, 95, 95);
+    color: white;
+	text-align: left;
+}
+td:hover {
+    background-color: silver;
+	font-size: 16.5pt;
+}
+
+
+
+
+
+
