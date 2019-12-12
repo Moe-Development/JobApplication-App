@@ -4,8 +4,8 @@
  *	Author: Mohamad Albazeai												            *
  *	        																			*
  *  																				    *
- * File description: the appAction javascript file is holding the 						*
- * user action on the index.php page. its doing action, fetching , 						*
+ * File description: the appAction javascript file is holding the 						
+ * user action on the index.php page. its doing action, fetching , 						
  * and response on the user action.								   						*
  ****************************************************************************************
  */
