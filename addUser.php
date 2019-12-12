@@ -3,10 +3,10 @@
 <?php
 /*
  ***************************************************************************************
- *	Author: Mohamad Albazeai												           *
- *	           																		   *
- * File description: the adduser.php page, its job is to insert the user account       *
- * to the database, after validate the data and hashing the password.				   *														   *
+ *	Author: Mohamad Albazeai												           
+ *	           																		   
+ * File description: the adduser.php page, its job is to insert the user account       
+ * to the database, after validate the data and hashing the password.				   														   *
  ***************************************************************************************
 */
 
